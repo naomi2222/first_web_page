@@ -1,0 +1,143 @@
+h1 {
+	color:#DC594B;
+	font-size:38px;
+	width: 500px;
+	height: 10px;
+	padding-bottom:10px;
+	
+}
+
+p {
+	font-family:"Courier New", Courier, monospace;
+}
+
+img {
+	width:300px;
+	height: 400px;
+}
+
+li {
+	list-style:none;
+	float: left;
+	padding: 33px 20px;
+}
+
+.header-logo {
+	float: left;
+	font-size: 36px;
+	padding: 20px 40px;
+}
+
+.header {
+	background-color:#F9F797;
+	color: #DC594B;
+	height: 90px;
+}
+
+.header-list li {
+	float: left;
+	padding: 33px 20px;
+}
+
+.main {
+	 background-color :#C5F7E2;
+}
+
+
+body {
+  font-family: "Avenir Next";
+}
+
+.footer {
+	background-color:#F9F797;
+	height: 120px;
+	padding: 40px;
+}
+
+.footer-logo {
+	font-size: 28px;
+	float: left;
+}
+
+.footer-list {
+	float: right;
+}
+
+span {
+	color:#000000
+}
+
+.section-title {
+  font-size: 34px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+  border-bottom: 2px solid #dee7ec;
+}
+
+.contents {
+	height: 700px;
+	margin-top: 50px;
+}
+
+.contents-item {
+	margin-right: 10px;
+	float: left;
+}
+
+.contents-item p {
+	font-sie: 32px;
+	margin-top: 20px;
+}
+
+.contact-form {
+	padding-top: 100px;
+}
+
+input, textarea {
+	widht: 600px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	padding: 10px;
+	font-size: 18px;
+	border: 2px solid #C14345;
+}
+
+.contact-submit {
+	background-color:#dee7ec;
+	color: #DC594B;
+}
+
+
+table{
+	width: 100%;
+}
+
+th{
+	width: 40%;
+}
+
+td{
+	width: 60%
+}
+
+table th{
+  padding : 20px 10px;
+}
+
+table td{
+  padding : 20px 10px;
+}
+
+th,td{
+	border:double 2px #3D3B3B;
+	color: #3D3B3B;
+}
+
+th {
+	background-color:#65E9B2;
+	color:white;
+}
+
+.footer-logo {
+	color:#DC594B;
+}
